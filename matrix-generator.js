@@ -19,5 +19,4 @@ function matrixGenerator(rows, columns) {
 
   return arr;
 }
-console.log(matrixGenerator(4, 4));
 module.exports = matrixGenerator;
